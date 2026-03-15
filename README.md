@@ -1,5 +1,7 @@
 # moon-age
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A web component that displays the current moon age and phase.
 
 ## Demo

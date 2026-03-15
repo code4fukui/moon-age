@@ -26,5 +26,5 @@ https://code4fukui.github.io/moon-age/
 <moon-age size="300"></moon-age>
 ```
 
-## 参考
-- [月齢と月の満ち欠けを表示 #JavaScript - Qiita](https://qiita.com/akebi_mh/items/b6a9c056d9198552e7b4)
+## ライセンス
+このプロジェクトは[MITライセンス](https://github.com/code4fukui/moon-age/blob/main/LICENSE)の下で公開されています。
