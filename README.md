@@ -1,24 +1,36 @@
 # moon-age
 
+A web component that displays the current moon age and phase.
+
+## Demo
 https://code4fukui.github.io/moon-age/
 
-## how to use
+## Features
+- Displays the current moon age and phase as a visual component
+- Supports setting the moon age date
+- Customizable size
+
+## Usage
+To use the `moon-age` web component, include the JavaScript file and add the `<moon-age>` element to your HTML:
 
 ```html
 <script type="module" src="https://code4fukui.github.io/moon-age/moon-age.js"></script>
 <moon-age></moon-age>
 ```
 
+You can also set the `value` attribute to display the moon age for a specific date:
+
 ```html
 <script type="module" src="https://code4fukui.github.io/moon-age/moon-age.js"></script>
 <moon-age value="2030-01-01"></moon-age>
 ```
+
+And the `size` attribute to customize the size of the component:
 
 ```html
 <script type="module" src="https://code4fukui.github.io/moon-age/moon-age.js"></script>
 <moon-age size="300"></moon-age>
 ```
 
-## reference
-
-- [月齢と月の満ち欠けを表示 #JavaScript - Qiita](https://qiita.com/akebi_mh/items/b6a9c056d9198552e7b4)
+## License
+This project is licensed under the [MIT License](https://github.com/code4fukui/moon-age/blob/main/LICENSE).
