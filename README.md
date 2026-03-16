@@ -35,4 +35,4 @@ And the `size` attribute to customize the size of the component:
 ```
 
 ## License
-This project is licensed under the [MIT License](https://github.com/code4fukui/moon-age/blob/main/LICENSE).
+MIT License — see [LICENSE](LICENSE).
